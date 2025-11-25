@@ -7,7 +7,7 @@ You can copy-paste it directly into `README.md` on GitHub.
 
 I am a Full Stack Web Developer with 14+ years of professional experience, specializing in React, Next.js, TypeScript, Node.js, Laravel, and modern frontend architectures. I build high-performance, scalable web applications and lead frontend teams with a strong focus on code quality, DX, performance optimization, and modern DevOps practices. Skilled in both frontend and backend development, passionate about solving complex challenges and delivering business-driven solutions.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?\&style=for-the-badge\&logo=linkedin\&logoColor=white\&color=0e76a8)](https://www.linkedin.com/in/milad-hamzelou)
+[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?\&style=for-the-badge\&logo=linkedin\&logoColor=white\&color=0e76a8)](https://www.linkedin.com/in/milad-hamzelou-40101996)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?\&style=for-the-badge\&logoColor=white\&logo=telegram)](https://t.me/Milad_Hamzelou)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?\&style=for-the-badge\&logo=gmail\&logoColor=white\&color=ea4335)](mailto:miladhamzelou@gmail.com)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?\&style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/)
